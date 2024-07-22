@@ -1,0 +1,3 @@
+data = {
+    'scales': assembleScalesForModel(model)
+}
